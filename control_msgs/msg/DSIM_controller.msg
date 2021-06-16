@@ -1,0 +1,2 @@
+float32 cmd_torque
+float32 cmd_position

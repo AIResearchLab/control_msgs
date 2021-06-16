@@ -11,6 +11,7 @@ add_action_files(DIRECTORY action FILES
   SingleJointPosition.action)
 
 add_message_files(DIRECTORY msg FILES
+  DSIM_controller.msg
   GripperCommand.msg
   JointControllerState.msg
   JointJog.msg
