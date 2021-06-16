@@ -1,3 +1,7 @@
+UC modifications
+===========
+Added a joint effort modification message for custom dsim controller in our fork of ROS_control
+
 control_msgs
 ===========
 
